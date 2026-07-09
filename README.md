@@ -85,15 +85,7 @@ Python · Boto3 · Paramiko · PyGitHub · Terraform · AWS EC2
  
 ---
  
-## Related Repos
- 
-| Repo | Description |
-|------|-------------|
-| [terraform-aws-eks](https://github.com/mamatha-ravi/terraform-aws-eks) | Terraform EKS infrastructure |
-| [roboshop-infra-dev](https://github.com/mamatha-ravi/roboshop-infra-dev) | Full RoboShop project |
- 
----
- 
+
 ## Author
  
 Mamatha Ravipati
